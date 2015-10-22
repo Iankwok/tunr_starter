@@ -4,5 +4,6 @@ Bundler.require
 
 # Controllers
 require './app'
+require './models/artist'
 
 run Tunr
